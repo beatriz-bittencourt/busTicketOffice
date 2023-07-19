@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1655127584 source:f:\p3onibus\p3onibus.c
+	<stdio.h>
+	<locale.h>
+	"p3onibus.h"
+
+1655120616 f:\p3onibus\p3onibus.h
+
+1655251176 source:f:\p3onibus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"p3onibus.h"
+
+1655129544 source:d:\p3onibus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"p3onibus.h"
+
+1655120616 d:\p3onibus\p3onibus.h
+
+1655127584 source:d:\p3onibus\p3onibus.c
+	<stdio.h>
+	<locale.h>
+	"p3onibus.h"
+

@@ -1,0 +1,54 @@
+ORIGEM: Taubaté
+DESTINO: São José dos Campos
+SAIDA: 5h 
+CHEGADA: 6h30
+PREÇO: 12,00
+
+TOTAL A SER PAGO: 24,00
+
+
+ORIGEM: Aparecida
+DESTINO: Cachoeira Paulista
+SAIDA: 12h 
+CHEGADA: 12h40
+PREÇO: 13,00
+
+TOTAL A SER PAGO: 26,00
+
+
+ORIGEM: Aparecida
+DESTINO: Lorena
+SAIDA: 6h 
+CHEGADA: 6h40
+PREÇO: 13,00
+
+TOTAL A SER PAGO: 91,00
+
+
+ORIGEM: São José dos Campos
+DESTINO: Taubaté
+SAIDA: 5h 
+CHEGADA: 7h30
+PREÇO: 12,00
+
+TOTAL A SER PAGO: 103,00
+
+
+ORIGEM: Caçapava
+DESTINO: Guaratinguatá
+SAIDA: 19h30 
+CHEGADA: 21h
+PREÇO: 34,00
+
+TOTAL A SER PAGO: 102,00
+
+
+ORIGEM: Cruzeiro
+DESTINO: Aparecida
+SAIDA: 12h 
+CHEGADA: 13h30
+PREÇO: 21,00
+
+TOTAL A SER PAGO: 21,00
+
+

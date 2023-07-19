@@ -1,0 +1,9 @@
+ORIGEM: Cruzeiro
+DESTINO: Aparecida
+SAÍDA: 12h 
+CHEGADA: 13h30
+PREÇO: 21,00
+
+TOTAL A SER PAGO: 21,00
+
+

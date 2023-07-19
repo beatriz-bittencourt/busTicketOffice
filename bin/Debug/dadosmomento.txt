@@ -1,0 +1,27 @@
+ORIGEM: Aparecida
+DESTINO: Caçapava
+SAÍDA: 12h 
+CHEGADA: 12h40
+PREÇO: 1,00
+
+TOTAL A SER PAGO: 1,00
+
+
+ORIGEM: Aparecida
+DESTINO: Caçapava
+SAÍDA: 19h30 
+CHEGADA: 21h
+PREÇO: 34,00
+
+TOTAL A SER PAGO: 103,00
+
+
+ORIGEM: Cachoeira Paulista
+DESTINO: Cruzeiro
+SAÍDA: 6h 
+CHEGADA: 6h40
+PREÇO: 3443534,00
+
+TOTAL A SER PAGO: 17217772,00
+
+
